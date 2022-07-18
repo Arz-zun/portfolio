@@ -22,23 +22,20 @@ const Service = () => {
           <ul className='service_list'>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Figma</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>PSD</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Adobe</p>
             </li>
+            
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
-            </li>
-            <li>
-              <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Many more</p>
             </li>
 
           </ul>
@@ -56,31 +53,31 @@ const Service = () => {
           <ul className='service_list'>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>React JS</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Tailwind CSS</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Bootstrap</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Node JS</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Laravel</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Wordpress</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>CMS</p>
             </li>
           </ul>
         </article>
@@ -96,23 +93,23 @@ const Service = () => {
           <ul className='service_list'>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>CEO Friendly</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Advertise</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Facbook Boost</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Content Writer</p>
             </li>
             <li>
               <BsCheck2All className='service_list_icon' />
-              <p>Arjun</p>
+              <p>Great communication skill</p>
             </li>
 
           </ul>
