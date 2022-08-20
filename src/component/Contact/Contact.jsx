@@ -40,7 +40,7 @@ const Contact = () => {
           <article className='contact_option'>
             <AiOutlineWhatsApp className='contact_icon' />
             <h4>whats App / Viber</h4>
-            <h5>+977 9806871568</h5>
+            <h5>+977 980600000</h5>
             <a href="https://api.whatsapp.com/send?pone+9779806871568" >send message</a>
           </article>
         </div>
